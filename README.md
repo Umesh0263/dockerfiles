@@ -45,7 +45,7 @@
     </head>
     <body>
         <h1>Three Tier Architecture Project...<h1>
-    <a href="http://54.144.195.78:8080/student/">Click here to fill form<a/>
+    <a href="http://instanceip:8080/student/">Click here to fill form<a/>
     </body>
     </html>
 11. build & run frontend docker file and expose to 80 port.
